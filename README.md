@@ -1,4 +1,5 @@
 ## Hi there 👋
+Hows it going. just here to mess around. not a seroius coder
 
 <!--
 **jsf3183/jsf3183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
